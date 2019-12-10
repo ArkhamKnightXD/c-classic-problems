@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575997818 source:d:\c++\c\reloj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<time.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573943691 source:d:\c++\c\tarea\main.c
+	<stdio.h>
+	<time.h>
+
